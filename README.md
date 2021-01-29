@@ -1,16 +1,49 @@
-### Hi there 👋
+<div align="center">
+</a>
+<a href="https://www.linkedin.com/in/davidestebanesteban/" target="_blank">
+<img src=https://github.com/davidestebanesteban/Utils/blob/main/1573404698924.jpeg?raw=true alt=linkedin style="margin-bottom: 5px;" />
+</a>
+</div>
 
-<!--
-**davidestebanesteban/davidestebanesteban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ¡BIENVENIDO! :grinning:
 
-Here are some ideas to get you started:
+##### :mortar_board: FORMACIÓN ACADÉMICA:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Máster en Data Science, [UAH](https://www.uah.es/es/) (19/20).
+- Ingeniería Técnica Industrial, Electrónica Industrial, [UAH](https://www.uah.es/es/) (2008-2013).
+
+##### :computer: EXPERIENCIA PROFESIONAL:
+
+-	Data Scientist, [Metiora | IoT Solutions](https://www.metiora.com/es/) 02/2020 – Actualmente
+
+	- Análisis y procesamiento de grandes volúmenes de datos.  
+	- Implementación de modelos de Machine Learning.  
+	- Generación de informes para mejorar la toma de decisiones y así los negocios de nuestros clientes.  
+	- Diseño, implementación y seguimiento de las herramientas, aplicaciones y soluciones desarrolladas.  
+	- Participación en el proceso de mejora de productos de la compañía, así como en la toma de decisiones y el desarrollo de los proyectos.  
+	- Constante formación e investigación de técnicas, tendencias y nuevas tecnologías en torno a la Inteligencia Artificial, Big Data, Machine Learning, IoT.
+
+- Ingeniero de soluciones IoT, [GRUPO LLEDÓ](https://lledogrupo.com) 2016 – 01/2020
+
+	-	Estudiar el mercado IoT, conocer diferentes dispositivos y sistemas para integrarlos dentro de una solución global para el cliente.
+	-	Realizar la implementación a través de APIs, HTTP o MQTT.
+	-	Responsable de diseño y desarrollo de soluciones dentro de la plataforma Cloud, diseño de reglas, estadísticas, paneles de visualización personalizados, estudio de costes, mapas de calor, perfiles de clientes, propuestas de mejora de servicios y distintos KPI según las necesidades del proyecto.
+	-	Promoción comercial y preventa de las soluciones.
+
+##### :bulb: HABILIDADES
+
+IOT | Python | Machine Learning | AWS Cloud | SQL | NoSQL | HTML | Gestión de proyectos | Trabajo en equipo | Pensamiento estratégico 
+
+##### :books: CERTIFICACIONES:
+
+- AWS Cloud Practitioner Essentials (Second Edition), AWS.
+- Comunicación Efectiva, Creatia Business 2018 | Madrid, España.
+
+##### :ballot_box: CONTACTO:
+
+<div align="center">
+</a>
+<a href="https://www.linkedin.com/in/fedllanes94/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+</div>
