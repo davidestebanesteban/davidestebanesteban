@@ -14,7 +14,13 @@
 
 ##### :computer: EXPERIENCIA PROFESIONAL:
 
--	Data Scientist, [Metiora | IoT Solutions](https://www.metiora.com/es/) 02/2020 – Actualmente
+-	Data Analyst & Python Developer, [Grupo CMC - Banco Santander T&O](https://www.grupocmc.es) 02/2021 – Actualmente
+
+	- Automatización y optimización de aplicaciones y procesos con tecnologías Big Data.
+	- Procesamiento y análisis de datos con Spark.
+	- Generación de reportes/controles automáticos.
+
+-	Data Analyst, [Metiora | IoT Solutions](https://www.metiora.com/es/) 02/2020 – 02/2021
 
 	- Análisis y procesamiento de grandes volúmenes de datos.  
 	- Implementación de modelos de Machine Learning.  
